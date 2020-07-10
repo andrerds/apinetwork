@@ -43,4 +43,4 @@ app.get("/dominios", function(request, response){
 // return check;
 // });
 // return dominios;
- 
+exports.api = functions.https.onRequest(app)
