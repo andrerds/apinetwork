@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rds-informatica",
+  "private_key_id": "efa8c2a5e9c33855d5bb57747212eb5bf3bfdda4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjbAG/GQW2ZGE8\n/fR+CJfSTrK49NZX5QueoJHuaVWOlRCRw2Mv5RmS4t47xCzecU2MTiye6AtNn1DI\nfAN54A5emqPJ5kAKM3lXDe449I8Nn8Ap62EhLXgJkQgRlNzkyVKW4u/ZA4UwPFFa\npc276KRL5bBvBdqHMQKYCCUNzB58K8ZLEeEIMl1o6atHEtUuARqUkL6QNp8s+6sd\ncU/feTwXOikTyzoFpgs1/UicXb912KxS5MNoSbNElCUEkFQTjW3pb546vvcnY6aq\niVtg1v5q6XS7VPzEC4PyjEz5C8k3y5DLTMFAdOdlOI7urReDOP1jDI+ZuxkXXRq5\ndWDgH5xVAgMBAAECggEADvMOloJ9pR7kovWLpqCMRub/xBn9pk0OdY80b6NUz3Ya\nbcMlG9iw22DZOeLAb1mHtwngXL8BvbLmaximdsEvf1RVHwnq73lK+dLik8o8xd8d\nxJftgDajxaLt99xuzUJkxZHH+smu0ZKgUehbUXu+1S89/Gyu03GBI72Rqi6d1qJC\n/RLk5AQFqYqa9VAm6Og7tNXZFKod8Ci+FnTj1gJHqHNU/RCxD/98pY+251cqgCCI\nXIS5xTzGKpkWoTOV1UPX3gsWj/d9gU1DTpQz6MCQQnm5H7cSf0SSyFg43YNUaLfp\nDaUo8ir0E5QgLnLRF3Yfz0FkWVEmx9Hv26407aw4ZwKBgQDbuFhPjniCpTJ2/A3G\nVWn5o8lIh3VH2T3s/s40zTv7wTG6ouEk5YDLL4dcA3PiJGCODTOZG9WvjQj5RFuj\n6FEJ1LkxsJAsW7CprL5tEGpNKLG0TMqi3KgQKknROCEMIo9GqadTCWy81KjFYF/8\nfmaECe2hrl5d7PRF5g1HAydhMwKBgQC+Z+o6RtKrpfaCNGIsIRyr4TgqwG67RXp6\nWgkHHrP5eI6i51oyIgINFoIIDT/mVHMjD0eyDAIdEMVXZKVCy+fF68dFrB7qaufg\nQNGXwP//EMGmiUbz5dkmA00DtfomX+YfF+/VT0/O5844K3g7XgP1yL89K7Z0xF2z\nOrKfvHQcVwKBgCY01AZhe8sb9r6B7dNDHv5t4J5gD6DCweXoGOtNlNSeL4uIryW/\nUroCNcNmRkxYjwGkgghpsqqoF5tgq57A0vamqt1dGnTcLMgUZbiJVjK8lMoJYGMZ\ng4/sCpH69KQrjkZ3UcU6qlHbmM1ZiNdbE3B6WXv32ijy/zb4Xe6vObXJAoGAEr4B\n1VixVgoRGMH1Q+jCfLy/nZ2xiKePJcoFB3ljN9RBHhHt0+97CjTD+ezr9E0txC61\n3PXHo3rKIg8bIVcW6mmKBParWGHLj0xyFSD/UekhVrY+kLV4SYCbrRjVlb9s1HSz\nu+iBr5kruGW3AQkBFMl84ZWS8S1/F6xYdtbDCyMCgYEAl3HLaExQJudOA5REfVAU\nnDVBsO+MnbYd5+EAjAfcwbOVGdPuUnwwkvMKahH2VHeI98MhzMx5uu91U0rKi0ld\nnpymACyr08vTe30W6L7YeIekiDvPxdhyuvDjwmhmeiJX2ISPJXnYYc5JasPq6cFM\n0Y6wdhTf6zeWS/6xULKoc2M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "networkmonitor@rds-informatica.iam.gserviceaccount.com",
+  "client_id": "110090564871575766246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/networkmonitor%40rds-informatica.iam.gserviceaccount.com"
+}
