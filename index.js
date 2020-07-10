@@ -2,9 +2,10 @@ const domainPing = require("domain-ping");
 const admin = require('firebase-admin');
 const { response } = require('express');
 const app = require("express")();
+const port = 4000
 
 let serviceAccount = require('./rds-informatica-dff32377287a.json');
-const { https } = require("firebase-functions");
+ 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
 });
@@ -44,4 +45,4 @@ app.get("/dominios", function(request, response){
 // return check;
 // });
 // return dominios;
-exports.api = https.onRequest();
+module.exports = app;
