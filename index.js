@@ -4,6 +4,7 @@ const { response } = require('express');
 const app = require("express")();
 
 let serviceAccount = require('./rds-informatica-dff32377287a.json');
+const { https } = require("firebase-functions");
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
 });
@@ -43,4 +44,4 @@ app.get("/dominios", function(request, response){
 // return check;
 // });
 // return dominios;
-exports.api = functions.https.onRequest(app)
+exports.api = https.onRequest();
