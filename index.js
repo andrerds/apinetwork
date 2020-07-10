@@ -24,8 +24,9 @@ app.get("/dominios", function(request, response){
                }).catch(e => console.log(e)) ;
               
             });
+            response.json(result);
         })
-        response.json(result);
+        
      }).catch(err => { console.log(err)});
 })
  
